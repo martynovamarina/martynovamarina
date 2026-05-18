@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @martynovamarina
-- 👀 I’m interested in Internet-marketing and Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on analytic projects.
-- 📫 How to reach me: marina.i.martynova@gmail.com
+👋 Hi, I'm Marina Martynova
+SEO & AI Search Specialist based in Lisbon. 
+I work at the intersection of technical SEO, paid acquisition and AI search visibility — helping websites stay discoverable as search shifts toward LLMs and AI Overviews.
+10+ years in performance marketing across B2B and B2C. 
+Currently focused on how AI is reshaping organic search and what that means for content structure, entity optimisation and tracking.
 
-<!---
-martynovamarina/martynovamarina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I work with
+GA4 · GTM · Google Search Console · Google Ads · Microsoft Ads · Python (analytics) · Data visualisation
+
+Currently exploring
+LLM visibility measurement · GEO optimisation · AI-powered SERP analysis
+
+Get in touch
+marina.i.martynova@gmail.com
+linkedin.com/in/martynova-marina/
