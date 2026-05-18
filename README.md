@@ -15,4 +15,5 @@ LLM visibility measurement · GEO optimisation · AI-powered SERP analysis
 
 Get in touch
 marina.i.martynova@gmail.com
-linkedin.com/in/martynova-marina/
+
+[linkedin.com/in/martynova-marina/](https://www.linkedin.com/in/martynova-marina/)
